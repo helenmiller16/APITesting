@@ -1,0 +1,14 @@
+Package: APITesting
+Type: Package
+Title: A faux package that tests ImmuneSpace R APIs
+Version: 0.1.0
+Author: Helen Miller
+Maintainer: Helen Miller <hmiller@fredhutch.org>
+Description: A faux package that tests ImmuneSpace R APIs
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports:
+    httr,
+    testthat
+
